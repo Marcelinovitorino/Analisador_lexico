@@ -1,0 +1,7 @@
+D:\UEM-Informatica\3º Ano Curricular\1º Semestre\Linguagens de programacao e compiladores\Exercicios\SELECT\SELECT\bin\Debug\SELECT.exe.config
+D:\UEM-Informatica\3º Ano Curricular\1º Semestre\Linguagens de programacao e compiladores\Exercicios\SELECT\SELECT\bin\Debug\SELECT.exe
+D:\UEM-Informatica\3º Ano Curricular\1º Semestre\Linguagens de programacao e compiladores\Exercicios\SELECT\SELECT\bin\Debug\SELECT.pdb
+D:\UEM-Informatica\3º Ano Curricular\1º Semestre\Linguagens de programacao e compiladores\Exercicios\SELECT\SELECT\obj\Debug\SELECT.csproj.AssemblyReference.cache
+D:\UEM-Informatica\3º Ano Curricular\1º Semestre\Linguagens de programacao e compiladores\Exercicios\SELECT\SELECT\obj\Debug\SELECT.csproj.CoreCompileInputs.cache
+D:\UEM-Informatica\3º Ano Curricular\1º Semestre\Linguagens de programacao e compiladores\Exercicios\SELECT\SELECT\obj\Debug\SELECT.exe
+D:\UEM-Informatica\3º Ano Curricular\1º Semestre\Linguagens de programacao e compiladores\Exercicios\SELECT\SELECT\obj\Debug\SELECT.pdb
