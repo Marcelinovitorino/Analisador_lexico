@@ -5,7 +5,7 @@ namespace SELECT
 {
     class Program
     {
-        public static Dictionary<int, char> mapa = new Dictionary<int, char>
+        public static Dictionary<int, char> mapaMin = new Dictionary<int, char>
         {
             { 1, 's' },
             { 2, 'e' },
@@ -13,6 +13,17 @@ namespace SELECT
             { 4, 'e' },
             { 5, 'c' },
             { 6, 't' }
+
+        };
+
+        public static Dictionary<int, char> mapaMax = new Dictionary<int, char>
+        {
+            { 1, 'S' },
+            { 2, 'E' },
+            { 3, 'L' },
+            { 4, 'E' },
+            { 5, 'C' },
+            { 6, 'T' }
 
         };
 
@@ -27,12 +38,12 @@ namespace SELECT
 
         public static bool analisaSelect(string palavra)
         {
-            string novaPalavra = palavra.ToLower();
+         
             bool valido;
-            for (int i = 1; i < novaPalavra.Length + 1; i++)
+            for (int i = 1; i < palavra.Length + 1; i++)
             {
-                char c = novaPalavra[i-1];
-                if (!verificarChaveValor(mapa, i,c))
+                char c = palavra[i-1];
+                if (!verificarChaveValor(mapaMin, i,c) && !verificarChaveValor(mapaMax, i, c))
                 {
                     valido = false;
                     Console.Write("Erro léxico");
