@@ -13,6 +13,5 @@ A entrada do usuário é analisada caractere por caractere. Cada caractere é co
 
 Se todos os caracteres corresponderem (em maiúsculo ou minúsculo), a palavra é considerada válida.
 
-## 💻 Exemplo de uso
 
 
